@@ -67,10 +67,8 @@
 ## 📈 **Visitor Count**  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=siddharthugharejiya&label=Profile%20Views&color=6&icon=5&pretty=true">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiddharthugharejiya&title=Profile%20Views&edge_flat=false">
 </p>
-
----
 
 > “Coding is like a superpower. Wear your cape (dark theme) and make magic happen!”  
 
